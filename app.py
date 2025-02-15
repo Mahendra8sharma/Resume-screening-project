@@ -1,4 +1,4 @@
-# you need to install all these in your terminal
+# need to install all these in your terminal
 # pip install streamlit
 # pip install scikit-learn
 # pip install python-docx
